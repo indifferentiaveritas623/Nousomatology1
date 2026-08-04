@@ -51,13 +51,17 @@ Electrostatic force F⃗ : The actual push or pull between two or more charges
 
 -E=F/q_0
 
+E=F/q_0  
+E∝F
+E≁q_0
+
 E:*source charges*
 F:
 q_0 : test charge
 
 By dividing the total force F by the charge magnitude q_0 
 the resulting value E becomes completely independent of q_0
-
+devoid of q_0, E sans q_0
 
 E=F/Q > E∝F; E≁Q
 
