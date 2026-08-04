@@ -2,6 +2,8 @@ https://web.chem.ox.ac.uk/teaching/Physics%20for%20CHemists/Electricity/Efield.h
 
 1.Gauss’s Law
 
+$$\Phi_E = \oint_S \mathbf{E} \cdot d\mathbf{A} = \frac{Q_{\text{enc}}}{\varepsilon_0}$$
+
 it describes how electric charges create electric fields.
 the total amount of electric field passing through a given surface area.
 Electric flux E : 電束 でんそく 電気の量（電気力線の総数）束の数　総本数
@@ -43,7 +45,10 @@ representing §the electrostatic force§ experienced per unit charge,
 pointing outward from positive charges and inward toward negative charges, 
 measured in volts per meter or newtons per coulomb
 
-An electric field vector E⃗
+>>>electric field vector E is the force per unit charge created by source charges in space (in a field)
+the electrostatic force F is the actual push or pull experienced by a specific charge placed in that field.
+
+An electric field vector E⃗ strengh
 represents the force per unit charge 
 that a stationary positive test charge would experience at a specific point in space.
 
