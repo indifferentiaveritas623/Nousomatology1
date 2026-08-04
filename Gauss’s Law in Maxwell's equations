@@ -32,17 +32,35 @@ representing §the electrostatic force§ experienced per unit charge,
 pointing outward from positive charges and inward toward negative charges, 
 measured in volts per meter or newtons per coulomb
 
+An electric field vector E⃗
+represents the force per unit charge that a stationary positive test charge would experience at a specific point in space.
+
 -Electrostatic force, 
 also called Coulomb’s force, 
 arises between charged particles due to their electric charges. 
 It is a fundamental interaction in nature and is part of the electromagnetic force, one of the four fundamental forces in the universe. The force can be attractive if the charges are opposite, 
 or repulsive if the charges are the same (both positive or both negative) and acts along the line joining the charges
 
-an electric field vector is the force per unit charge created by *source charges* in space, 
+-an electric field vector is the force per unit charge created by *source charges* in space, 
 an electrostatic force vector is the actual push or pull experienced by a specific test charge
 placed in that field. 
 They are linked by the equation F=qE
 
+-Electric field E⃗ : The electric field property of space surrounding a *source charge*
+Electrostatic force F⃗ : The actual push or pull between two or more charges
+
+-E=F/q_0
+
+E:*source charges*
+F:
+q_0 : test charge
+
+By dividing the total force F by the charge magnitude q_0 
+the resulting value E becomes completely independent of q_0
+
+
 E=F/Q > E∝F; E≁Q
 
 E: Electric field in N/C F:Electric force in Newton Q = charge in Coulombs  
+
+
