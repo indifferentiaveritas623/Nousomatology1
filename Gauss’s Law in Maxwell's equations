@@ -38,7 +38,10 @@ arises between charged particles due to their electric charges.
 It is a fundamental interaction in nature and is part of the electromagnetic force, one of the four fundamental forces in the universe. The force can be attractive if the charges are opposite, 
 or repulsive if the charges are the same (both positive or both negative) and acts along the line joining the charges
 
-
+an electric field vector is the force per unit charge created by *source charges* in space, 
+an electrostatic force vector is the actual push or pull experienced by a specific test charge
+placed in that field. 
+They are linked by the equation F=qE
 
 E=F/Q > E∝F; E≁Q
 
