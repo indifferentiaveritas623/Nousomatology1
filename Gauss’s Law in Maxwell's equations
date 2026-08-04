@@ -11,6 +11,12 @@ Positive Divergence (> 0)    Negative Divergence (< 0)    Zero Divergence (= 0)
 
 The symbol $\nabla$ (called "nabla" or "del") represents spatial differentiation across 3D coordinates ($x, y, z$):
 
+-An electric field : an invisible area around charged particles defined by force, direction, and strength. 
+It tells us how a positive charge will push or pull other objects nearby
+
+Direction: Points outward away from positive charges and inward toward negative charges.
+Strength formula: \(E = \frac{F}{q}\) (Force divided by the test charge).
+
 -Since at every point the electric field is a vector, it is called a vector field > Magnitude and Direction
 
 -The field of a point charge
@@ -23,3 +29,7 @@ and so the field is directed towards the centre.
 
 Electrostatic force, also called Coulomb’s force, arises between charged particles due to their electric charges. It is a fundamental interaction in nature and is part of the electromagnetic force, one of the four fundamental forces in the universe. The force can be attractive if the charges are opposite, 
 or repulsive if the charges are the same (both positive or both negative) and acts along the line joining the charges
+
+E=F/Q > E∝F; E≁Q
+
+E: Electric field F:Electric force Q 
