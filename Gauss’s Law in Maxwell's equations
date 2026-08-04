@@ -1,9 +1,20 @@
 https://web.chem.ox.ac.uk/teaching/Physics%20for%20CHemists/Electricity/Efield.html
 
 1.Gauss’s Law
-it describes how electric charges create electric fields.
 
-Divergence measures how much a field behaves like a source (fountain) 
+it describes how electric charges create electric fields.
+the total amount of electric field passing through a given surface area.
+Electric flux E : 電束 でんそく 電気の量（電気力線の総数）束の数　総本数
+
+-a Gaussian surface—around a region in space:
+
+Positive net flux: More field lines are exiting the surface than entering, 
+meaning net positive charge is enclosed inside.
+
+Negative net flux: More field lines are entering than exiting, 
+meaning net negative charge is enclosed inside.
+
+-Divergence measures how much a field behaves like a source (fountain) 
 or a sink (drain) at a specific point in space.
 
 Positive Divergence (> 0)    Negative Divergence (< 0)    Zero Divergence (= 0)
@@ -36,7 +47,7 @@ An electric field vector E⃗
 represents the force per unit charge 
 that a stationary positive test charge would experience at a specific point in space.
 
--Electrostatic force, 
+-Electrostatic force : push and pull : F⃗ 
 also called Coulomb’s force, 
 arises between charged particles due to their electric charges. 
 It is a fundamental interaction in nature 
@@ -72,12 +83,12 @@ E∝F
 E≁q_0
 
 E:*source charges* strengh
-F:
+F:electrostatic force / push and pull
 q_0 : test charge
 
 By dividing the total force F by the charge magnitude q_0 
 the resulting value E becomes completely independent of q_0
-devoid of q_0, E sans q_0, net strengh of E
+devoid of q_0, E sans q_0, *net strengh of E
 
 E=F/Q > E∝F; E≁Q
 
