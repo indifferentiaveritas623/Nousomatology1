@@ -33,12 +33,16 @@ pointing outward from positive charges and inward toward negative charges,
 measured in volts per meter or newtons per coulomb
 
 An electric field vector E⃗
-represents the force per unit charge that a stationary positive test charge would experience at a specific point in space.
+represents the force per unit charge 
+that a stationary positive test charge would experience at a specific point in space.
 
 -Electrostatic force, 
 also called Coulomb’s force, 
 arises between charged particles due to their electric charges. 
-It is a fundamental interaction in nature and is part of the electromagnetic force, one of the four fundamental forces in the universe. The force can be attractive if the charges are opposite, 
+It is a fundamental interaction in nature 
+and is part of the electromagnetic force, 
+one of the four fundamental forces in the universe. 
+The force can be attractive if the charges are opposite, 
 or repulsive if the charges are the same (both positive or both negative) and acts along the line joining the charges
 
 -an electric field vector is the force per unit charge created by *source charges* in space, 
@@ -49,22 +53,41 @@ They are linked by the equation F=qE
 -Electric field E⃗ : The electric field property of space surrounding a *source charge*
 Electrostatic force F⃗ : The actual push or pull between two or more charges
 
+If you place a test charge q_0 at a location in space 
+it feels an electrostatic force (push and pull)
+the electric field vector at that exact location is defined 
+as E=F/q_0
+
 -E=F/q_0
+
+E=electric field : strength / Volts per meter V/m
+Volts per meter V/m is completely equivalent to Newtons per Coulomb N/C
+N/C describes the field from a force perspective, 
+V/m describes it from a potential and energy perspective
+
+q_0 : 
 
 E=F/q_0  
 E∝F
 E≁q_0
 
-E:*source charges*
+E:*source charges* strengh
 F:
 q_0 : test charge
 
 By dividing the total force F by the charge magnitude q_0 
 the resulting value E becomes completely independent of q_0
-devoid of q_0, E sans q_0
+devoid of q_0, E sans q_0, net strengh of E
 
 E=F/Q > E∝F; E≁Q
 
 E: Electric field in N/C F:Electric force in Newton Q = charge in Coulombs  
+
+-F=qE
+
+electric field vector is the force per unit charge created by source charges in space, 
+while an electrostatic force vector is the actual push or pull experienced by a specific test charge placed in that field
+
+The electrostatic force : the push or pull between charged particles
 
 
