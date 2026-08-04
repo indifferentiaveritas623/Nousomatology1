@@ -1,4 +1,8 @@
 1.Gauss’s Law
 it describes how electric charges create electric fields.
 
+Divergence measures how much a field behaves like a source (fountain) 
+or a sink (drain) at a specific point in space.
 
+Positive Divergence (> 0)    Negative Divergence (< 0)    Zero Divergence (= 0)
+        (Fountain)                    (Drain)                   (Pass-Through)
