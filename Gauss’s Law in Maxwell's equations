@@ -1,3 +1,5 @@
+https://web.chem.ox.ac.uk/teaching/Physics%20for%20CHemists/Electricity/Efield.html
+
 1.Gauss’s Law
 it describes how electric charges create electric fields.
 
@@ -9,8 +11,15 @@ Positive Divergence (> 0)    Negative Divergence (< 0)    Zero Divergence (= 0)
 
 The symbol $\nabla$ (called "nabla" or "del") represents spatial differentiation across 3D coordinates ($x, y, z$):
 
+-Since at every point the electric field is a vector, it is called a vector field > Magnitude and Direction
+
+-The field of a point charge
+
 For an isolated positive point charge the force on a positive test charge is directed away from the centre, 
 and so the field is also directed away from the centre.
 
 On the other hand for an isolated negative point charge the force on the test charge is in the opposite direction, 
 and so the field is directed towards the centre.
+
+Electrostatic force, also called Coulomb’s force, arises between charged particles due to their electric charges. It is a fundamental interaction in nature and is part of the electromagnetic force, one of the four fundamental forces in the universe. The force can be attractive if the charges are opposite, 
+or repulsive if the charges are the same (both positive or both negative) and acts along the line joining the charges
