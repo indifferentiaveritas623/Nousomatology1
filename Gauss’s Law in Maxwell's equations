@@ -6,3 +6,11 @@ or a sink (drain) at a specific point in space.
 
 Positive Divergence (> 0)    Negative Divergence (< 0)    Zero Divergence (= 0)
         (Fountain)                    (Drain)                   (Pass-Through)
+
+The symbol $\nabla$ (called "nabla" or "del") represents spatial differentiation across 3D coordinates ($x, y, z$):
+
+For an isolated positive point charge the force on a positive test charge is directed away from the centre, 
+and so the field is also directed away from the centre.
+
+On the other hand for an isolated negative point charge the force on the test charge is in the opposite direction, 
+and so the field is directed towards the centre.
